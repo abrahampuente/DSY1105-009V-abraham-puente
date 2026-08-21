@@ -4,7 +4,7 @@ public class Laboratorio01Java {
 
     public static void main(String[] args) {
         String modelo = "Galaxy A55";
-        int bateria = 18;
+        int bateria = 90;
         boolean modoAhorro = false;
         String propietario = null;
 
