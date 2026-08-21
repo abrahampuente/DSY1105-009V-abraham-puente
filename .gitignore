@@ -1,0 +1,15 @@
+﻿# Archivos ignorados por Git
+
+.idea/
+.gradle/
+**/build/
+local.properties
+*.iml
+*.log
+captures/
+.externalNativeBuild/
+.cxx/
+.env
+*.key
+*.pem
+*.jar
