@@ -1,5 +1,7 @@
 # Estructura de Mockups y Flujo de Pantallas
 
+Link del mockup realizado en Figma: [text](https://pine-spruce-95248148.figma.site/)
+
 ## Flujo de Navegación Principal
 El flujo ha sido optimizado a 3 ventanas clave para garantizar una navegación clara y directa orientada a la exploración y contacto[cite: 2]:
 `{Inicio / Matchmaking} -----> {Listado / Filtros por Área} -----> {Detalle de Proyecto y Simulación de Contacto}`
